@@ -2,8 +2,7 @@
  * Assignment 2
  * @author - Mylan Nguyen
  * @date - Oct 18, 2021 
- * 251155416
- * mnguy246 */
+ */
 
 /*
 * This class represents each board layout as a String.
