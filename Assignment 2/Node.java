@@ -2,8 +2,7 @@
  * Assignment 2
  * @author - Mylan Nguyen
  * @date - Oct 18, 2021 
- * 251155416
- * mnguy246 */
+ */
 
 /*
 * This class stores an object of type Layout and a pointer to an object of type Node
